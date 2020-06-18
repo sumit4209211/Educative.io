@@ -1,0 +1,36 @@
+Sprin Integration :- Part of enterprise application patterns
+Spring cloud stream is based on Spring integration 
+JMX:- Java Management Extensions
+Stack can be used for Recursive problems
+Queue can be used for 
+Spring features:-
+1.Core technologies: dependency injection, events, resources, i18n, validation, data binding, type conversion, SpEL, AOP.
+
+2.Testing: mock objects, TestContext framework, Spring MVC Test, WebTestClient.
+
+3.Data Access: transactions, DAO support, JDBC, ORM, Marshalling XML.
+
+4.Spring MVC and Spring WebFlux web frameworks.
+
+5.Integration: remoting, JMS, JCA, JMX, email, tasks, scheduling, cache. java Enterprise Edition Connection Architecture
+
+6Languages: Kotlin, Groovy, dynamic languages.
+======================
+Spring Data:-
+1. JDBC : @Query, @EnableJDBCRepositories
+2. JDBC Extensions
+3. JPA
+4. LDAP
+5. MongoDB
+6.Redis
+7.R2DBC
+8.Spring data Rest
+9. Apache Cassandra
+10. Apache Geocode
+11. Apache Solr
+12. Pivotal Gemfire
+13. Couchbase
+14. Elastic Search
+15. Envers
+16. Neo4J
+17. Spring for Apache Hadoop
